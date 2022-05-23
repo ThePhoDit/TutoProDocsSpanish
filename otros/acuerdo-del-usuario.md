@@ -11,31 +11,31 @@ Bienvenido y gracias por elegir TutoPro como bot de moderación para su servidor
 ## Uso del bot
 
 * Cada servidor en el que se encuentra el bot debe ser administrado por al menos un usuario.
-* If you find someone abusing of the bot, you do not hesitate to add them to the bot's [local blacklist](broken-reference). Si encuentras a alguien que abusa de los comandos del bot,
+* If you find someone abusing of the bot, you do not hesitate to add them to the bot's [local blacklist](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md). Si encuentras a alguien que abusa de los comandos del bot,
 * If we find that any server administrator is not properly utilizing TutoPro, the bot can be removed from it, previously receiving a formal warning.
 
-## Data Storage
+## Almacenamiento de Datos
 
-We only store the essential data for the bot to work. This data is:
+Solamente almacenamos datos esenciales para que el bot funcione de manera correcta. Estos datos son:
 
-* Members information, saved in cache and not stored longer than one week.
-* Content from the messages triggering any [moderation command](broken-reference). This content is used to ensure the proper functioning of TutoPro.
-* Content from the messages triggering any [reminder](broken-reference) or [tag](broken-reference) command. This content is sent by the bot and by saving it we ensure that it is not used for any inappropriate action.
-* [Suggestions](broken-reference) content.
-* All [logs](broken-reference) content, which is not really saved but is sent to the selected Discord channel, so it can be viewed by the server's administrators and moderators at any time.
-* Suggestions content in order to interact with it.
-* [Sent](broken-reference) and [edited](broken-reference) embeds channel and message IDs. Saved for security reasons.
-* [Say command](broken-reference) content in order to keep a responsible use of this function.
+* Información de los miembros, se guardan en cache y no se almacenan más de una semana.
+* Contenido del mensaje que ejecuta algún [comando de moderación](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md). Este contenido se utiliza para garantizar el correcto funcionamiento de TutoPro.
+* Contenido del comando como [Recordatorios](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md) o [Etiquetas](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md). Este contenido lo envía el bot y al guardarlo nos aseguramos de que no se utilice para ninguna acción inapropiada.
+* Contenido de la [sugerencias](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md).
+* Todo el contenido de los [registros](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md). Realmente no se guarda pero es enviado al canal que tú seleccionaste, y es posible que los administradores y moderadores de tu servidor lo vean.
+* Contenido de las sugerencias al que interactuas.
+* Mensajes embed que [envías](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md) y [editas](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md) junto a la ID del canal. Guardado por razones de seguridad.
+* Comando de [decir](https://github.com/cosmmy02/tpes/blob/main/page-1/broken-reference/README.md), con el fin de hacer un uso responsable de esta función.
 
-This data is saved locally, so it never goes outside the storing machine. It is not accessible by anyone but Discord or any other legal entity with an order stating they can access it.
+Estos datos son guardados localmente, nunca saldrán de la máquina de almacenamiento. Estos datos no son accesibles por nadie menos en casos de que Discord o cualquier entidad legal con una orden que indique que pueden acceder a ella.
 
-### How can I get my data removed?
+### ¿Cómo puedo borrar mis datos?
 
-If you want to delete your data you should contact phodit@phodit.net providing the following information:
+Si quieres eliminar tus datos debes contactar con **phodit@phodit.net** y proporcionar la siguiente información:
 
-* Any confirmation that proves you are the owner of the account.
-* Data you want to delete.
-* Reason.
-* Does it affect anyone else?
+* Alguna evidencia que confirme que tu eres el dueño de la cuenta.
+* Los datos que quieres eliminar.
+* Razón.
+* ¿Afecta esta eliminación a alguien más?
 
-I will evaluate whether it should be removed or not based on your answers and reply to you within 5 business days.
+Evaluaremos tus respuestas y basados en eso eliminaremos dicha información o no y te contactaremos en un plazo de 5 días hábiles.
